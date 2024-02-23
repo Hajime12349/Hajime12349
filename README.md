@@ -1,4 +1,4 @@
-![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase&show_icons=true&locale=en&layout=compact)
-
-![Anurag's GitHub stats]
-(https://github-readme-stats.vercel.app/apiusername=●●●&show_icons=true&theme=★★★)
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hajime12349&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Hajime12349&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
+</p>
